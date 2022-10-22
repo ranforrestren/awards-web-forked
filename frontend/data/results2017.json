@@ -267,13 +267,13 @@
      "name": "Action",
      "entryType": "shows",
      "jurors": [
-      "/u/Cacophon",
-      "/u/CadisRai",
-      "/u/chrispy294",
-      "/u/FetchFrosh",
-      "/u/MetaSoshi9",
-      "/u/VincentBlack96",
-      "/u/Superunicornman69"
+      "Cacophon",
+      "CadisRai",
+      "chrispy294",
+      "FetchFrosh",
+      "MetaSoshi9",
+      "VincentBlack96",
+      "Superunicornman69"
      ],
      "blurb": "",
      "nominees": [
@@ -364,13 +364,13 @@
      "name": "Adventure/Fantasy",
      "entryType": "shows",
      "jurors": [
-      "/u/__Mekakucity",
-      "/u/Brodogs",
-      "/u/Coconutcreambun",
-      "/u/jamedkan",
-      "/u/kaverik",
-      "/u/pandavengerx",
-      "/u/xlolTenshi"
+      "__Mekakucity",
+      "Brodogs",
+      "Coconutcreambun",
+      "jamedkan",
+      "kaverik",
+      "pandavengerx",
+      "xlolTenshi"
      ],
      "blurb": "",
      "nominees": [
@@ -461,13 +461,13 @@
      "name": "Comedy",
      "entryType": "shows",
      "jurors": [
-      "/u/5teve7",
-      "/u/MalacostracaFlame",
-      "/u/irvom",
-      "/u/uhayu",
-      "/u/RHINN0",
-      "/u/manmythmustache",
-      "/u/Instinct1221"
+      "5teve7",
+      "MalacostracaFlame",
+      "irvom",
+      "uhayu",
+      "RHINN0",
+      "manmythmustache",
+      "Instinct1221"
      ],
      "blurb": "",
      "nominees": [
@@ -550,13 +550,13 @@
      "name": "Drama",
      "entryType": "shows",
      "jurors": [
-      "/u/kaverik",
-      "/u/Ralon17",
-      "u/__mekakucity",
-      "/u/Deafness",
-      "/u/fannybabbs",
-      "/u/Sinrus",
-      "/u/CodeLelouche"
+      "kaverik",
+      "Ralon17",
+      "__mekakucity",
+      "Deafness",
+      "fannybabbs",
+      "Sinrus",
+      "CodeLelouche"
      ],
      "blurb": "",
      "nominees": [
@@ -654,13 +654,13 @@
      "name": "Romance",
      "entryType": "shows",
      "jurors": [
-      "/u/5teve7",
-      "/u/Combo33",
-      "/u/fannybabbs",
-      "/u/Rarietty",
-      "/u/Win32error",
-      "/u/immefrank",
-      "/u/uhayu"
+      "5teve7",
+      "Combo33",
+      "fannybabbs",
+      "Rarietty",
+      "Win32error",
+      "immefrank",
+      "uhayu"
      ],
      "blurb": "",
      "nominees": [
@@ -743,13 +743,13 @@
      "name": "Slice of Life",
      "entryType": "shows",
      "jurors": [
-      "/u/BioChemRS",
-      "u/reyae",
-      "/u/DrJWilson",
-      "/u/Fircoal",
-      "/u/SpareUmbrella",
-      "/u/13_Thieves",
-      "/u/wheatsquares33"
+      "BioChemRS",
+      "reyae",
+      "DrJWilson",
+      "Fircoal",
+      "SpareUmbrella",
+      "13_Thieves",
+      "wheatsquares33"
      ],
      "blurb": "",
      "nominees": [
@@ -840,13 +840,13 @@
      "name": "Thriller/Mystery",
      "entryType": "shows",
      "jurors": [
-      "/u/BioChemRS",
-      "/u/Miidas-92",
-      "/u/MrMonday11235",
-      "/u/tjdraws",
-      "/u/orangeshades",
-      "/u/TomatoFork",
-      "/u/BestDVA_NA"
+      "BioChemRS",
+      "Miidas-92",
+      "MrMonday11235",
+      "tjdraws",
+      "orangeshades",
+      "TomatoFork",
+      "BestDVA_NA"
      ],
      "blurb": "",
      "nominees": [
@@ -945,13 +945,13 @@
      "name": "Main Dramatic",
      "entryType": "characters",
      "jurors": [
-      "/u/Schinco",
-      "/u/BioChemRS",
-      "/u/Ralon17",
-      "/u/Karmic_Thread",
-      "/u/Kaverik",
-      "/u/MetaSoshi9",
-      "/u/OrangeShades"
+      "Schinco",
+      "BioChemRS",
+      "Ralon17",
+      "Karmic_Thread",
+      "Kaverik",
+      "MetaSoshi9",
+      "OrangeShades"
      ],
      "blurb": "",
      "nominees": [
@@ -1049,13 +1049,13 @@
      "name": "Main Comedic",
      "entryType": "characters",
      "jurors": [
-      "/u/irvom",
-      "/u/rarietty",
-      "/u/tjdraws",
-      "/u/Win32Error",
-      "/u/GhuntzWazabi",
-      "/u/hyoizaburo",
-      "/u/MalacostracaFlame"
+      "irvom",
+      "rarietty",
+      "tjdraws",
+      "Win32Error",
+      "GhuntzWazabi",
+      "hyoizaburo",
+      "MalacostracaFlame"
      ],
      "blurb": "",
      "nominees": [
@@ -1146,14 +1146,14 @@
      "name": "Supporting Dramatic",
      "entryType": "characters",
      "jurors": [
-      "/u/Schinco",
-      "/u/DefyingMadness",
+      "Schinco",
+      "DefyingMadness",
       "\"Deafness\"",
-      "/u/Ralon17",
-      "/u/FetchFrosh",
-      "/u/Miidas-92",
-      "/u/tiny_nipples",
-      "/u/zibaq"
+      "Ralon17",
+      "FetchFrosh",
+      "Miidas-92",
+      "tiny_nipples",
+      "zibaq"
      ],
      "blurb": "",
      "nominees": [
@@ -1251,13 +1251,13 @@
      "name": "Supporting Comedic",
      "entryType": "characters",
      "jurors": [
-      "/u/5teve7",
-      "/u/Fircoal",
-      "/u/uhayu",
-      "/u/Miidas-92",
-      "/u/immefrank",
-      "/u/Win32Error",
-      "/u/Sinrus"
+      "5teve7",
+      "Fircoal",
+      "uhayu",
+      "Miidas-92",
+      "immefrank",
+      "Win32Error",
+      "Sinrus"
      ],
      "blurb": "",
      "nominees": [
@@ -1362,13 +1362,13 @@
      "name": "Antagonist",
      "entryType": "characters",
      "jurors": [
-      "/u/VincentBlack96",
-      "/u/irvom",
-      "/u/SIRTreehugger",
-      "/u/jamedkan",
-      "/u/UnseelieSeraph",
-      "/u/OrangeShades",
-      "/u/patureau"
+      "VincentBlack96",
+      "irvom",
+      "SIRTreehugger",
+      "jamedkan",
+      "UnseelieSeraph",
+      "OrangeShades",
+      "patureau"
      ],
      "blurb": "",
      "nominees": [
@@ -1473,13 +1473,13 @@
      "name": "Cast",
      "entryType": "shows",
      "jurors": [
-      "/u/reyae",
-      "/u/wrosgar",
-      "/u/BriceRoyale",
-      "/u/juzeddi",
-      "/u/NBVictory",
-      "/u/WheatSquares33",
-      "/u/AdiMG"
+      "reyae",
+      "wrosgar",
+      "BriceRoyale",
+      "juzeddi",
+      "NBVictory",
+      "WheatSquares33",
+      "AdiMG"
      ],
      "blurb": "",
      "nominees": [
@@ -1570,13 +1570,13 @@
      "name": "Animation",
      "entryType": "shows",
      "jurors": [
-      "/u/Vaxivop",
-      "/u/biochemRS",
-      "/u/DefyingMadness",
-      "/u/Sinrus",
-      "/u/vetro",
-      "/u/uhayu",
-      "/u/AdiMG"
+      "Vaxivop",
+      "biochemRS",
+      "DefyingMadness",
+      "Sinrus",
+      "vetro",
+      "uhayu",
+      "AdiMG"
      ],
      "blurb": "",
      "nominees": [
@@ -1716,13 +1716,13 @@
      "name": "Art Style",
      "entryType": "shows",
      "jurors": [
-      "/u/Vaxivop",
-      "/u/Sinrus",
-      "/u/FetchFrosh",
-      "/u/keeptrackoftime",
-      "/u/xloltenshi",
-      "/u/NBVictory",
-      "/u/DoctorWhoops"
+      "Vaxivop",
+      "Sinrus",
+      "FetchFrosh",
+      "keeptrackoftime",
+      "xloltenshi",
+      "NBVictory",
+      "DoctorWhoops"
      ],
      "blurb": "",
      "nominees": [
@@ -1834,13 +1834,13 @@
      "name": "Cinematography",
      "entryType": "shows",
      "jurors": [
-      "/u/reyae",
-      " /u/DrJWilson",
-      "/u/MetaSoshi9",
-      "/u/Win32Error",
-      "/u/keeptrackoftime",
-      "/u/tjdraws",
-      "/u/Chrispy294"
+      "reyae",
+      " DrJWilson",
+      "MetaSoshi9",
+      "Win32Error",
+      "keeptrackoftime",
+      "tjdraws",
+      "Chrispy294"
      ],
      "blurb": "",
      "nominees": [
@@ -1945,13 +1945,13 @@
      "name": "Character Design",
      "entryType": "shows",
      "jurors": [
-      "/u/patureau",
-      "/u/Deafness",
-      "/u/Ralon17",
-      "/u/vetro",
-      "/u/CoconutCreamBun",
-      "/u/NBVictory",
-      "/u/AdiMG"
+      "patureau",
+      "Deafness",
+      "Ralon17",
+      "vetro",
+      "CoconutCreamBun",
+      "NBVictory",
+      "AdiMG"
      ],
      "blurb": "",
      "nominees": [
@@ -2063,13 +2063,13 @@
      "name": "Background Art",
      "entryType": "shows",
      "jurors": [
-      "/u/Fircoal",
-      "/u/Coconutcreambun",
-      "/u/ajigsawnhalo",
-      "/u/keeptrackoftime",
-      "/u/mpp00",
-      "/u/NBVictory",
-      "/u/manmythmustache"
+      "Fircoal",
+      "Coconutcreambun",
+      "ajigsawnhalo",
+      "keeptrackoftime",
+      "mpp00",
+      "NBVictory",
+      "manmythmustache"
      ],
      "blurb": "",
      "nominees": [
@@ -2167,15 +2167,15 @@
      "name": "Best OP",
      "entryType": "themes",
      "jurors": [
-      "/u/RHINN0",
-      "/u/Cryzzalis",
-      "/u/Rarietty",
-      "/u/coconutcreambun",
-      "/u/UnseelieSeraph",
-      "/u/Schinco",
-      "/u/Brodogs",
-      "/u/DoctorWhoops",
-      "/u/chrispy294"
+      "RHINN0",
+      "Cryzzalis",
+      "Rarietty",
+      "coconutcreambun",
+      "UnseelieSeraph",
+      "Schinco",
+      "Brodogs",
+      "DoctorWhoops",
+      "chrispy294"
      ],
      "blurb": "",
      "nominees": [
@@ -2328,15 +2328,15 @@
      "name": "Best ED",
      "entryType": "themes",
      "jurors": [
-      "/u/RHINN0",
-      "/u/Cryzzalis",
-      "/u/Rarietty",
-      "/u/coconutcreambun",
-      "/u/UnseelieSeraph",
-      "/u/Schinco",
-      "/u/Brodogs",
-      "/u/DoctorWhoops",
-      "/u/chrispy294"
+      "RHINN0",
+      "Cryzzalis",
+      "Rarietty",
+      "coconutcreambun",
+      "UnseelieSeraph",
+      "Schinco",
+      "Brodogs",
+      "DoctorWhoops",
+      "chrispy294"
      ],
      "blurb": "",
      "nominees": [
@@ -2496,15 +2496,15 @@
      "name": "Best Male VA",
      "entryType": "vas",
      "jurors": [
-      "/u/patureau",
-      "/u/DrJWilson",
-      "/u/Miidas-92",
-      "/u/SpareUmbrella",
-      "/u/CodeLelouche",
-      "/u/GetMekdBro",
-      "/u/immefrank",
-      "/u/keeptrackoftime",
-      "/u/xlolTenshi"
+      "patureau",
+      "DrJWilson",
+      "Miidas-92",
+      "SpareUmbrella",
+      "CodeLelouche",
+      "GetMekdBro",
+      "immefrank",
+      "keeptrackoftime",
+      "xlolTenshi"
      ],
      "blurb": "",
      "nominees": [
@@ -2616,15 +2616,15 @@
      "name": "Best Female VA",
      "entryType": "vas",
      "jurors": [
-      "/u/patureau",
-      "/u/DrJWilson",
-      "/u/Miidas-92",
-      "/u/SpareUmbrella",
-      "/u/CodeLelouche",
-      "/u/GetMekdBro",
-      "/u/immefrank",
-      "/u/keeptrackoftime",
-      "/u/xlolTenshi"
+      "patureau",
+      "DrJWilson",
+      "Miidas-92",
+      "SpareUmbrella",
+      "CodeLelouche",
+      "GetMekdBro",
+      "immefrank",
+      "keeptrackoftime",
+      "xlolTenshi"
      ],
      "blurb": "",
      "nominees": [
@@ -2736,13 +2736,13 @@
      "name": "Best OST",
      "entryType": "shows",
      "jurors": [
-      "/u/irvom",
-      "/u/BriceRoyale",
-      "/u/hamptonwooster",
-      "/u/oyooy",
-      "/u/ekuru",
-      "/u/Chrispy294",
-      "/u/DoctorWhoops"
+      "irvom",
+      "BriceRoyale",
+      "hamptonwooster",
+      "oyooy",
+      "ekuru",
+      "Chrispy294",
+      "DoctorWhoops"
      ],
      "blurb": "",
      "nominees": [
@@ -2862,13 +2862,13 @@
      "name": "Short of the Year",
      "entryType": "shows",
      "jurors": [
-      "/u/reyae",
-      "/u/MetaSoshi9",
-      "/u/Sinrus",
-      "/u/tjdraws",
-      "/u/__mekakucity",
-      "/u/wheatsquares33",
-      "/u/xloltenshi"
+      "reyae",
+      "MetaSoshi9",
+      "Sinrus",
+      "tjdraws",
+      "__mekakucity",
+      "wheatsquares33",
+      "xloltenshi"
      ],
      "blurb": "",
      "nominees": [
@@ -2973,13 +2973,13 @@
      "name": "Movie of the Year",
      "entryType": "shows",
      "jurors": [
-      "u/Schinco",
-      "/u/Deafness",
-      "/u/FetchFrosh",
-      "/u/irvom",
-      "/u/Jamedkans",
-      "/u/Hyoizaburo",
-      "/u/AdiMG"
+      "Schinco",
+      "Deafness",
+      "FetchFrosh",
+      "irvom",
+      "Jamedkans",
+      "Hyoizaburo",
+      "AdiMG"
      ],
      "blurb": "",
      "nominees": [
@@ -3070,17 +3070,17 @@
       "name": "Anime of the Year",
       "entryType": "shows",
       "jurors": [
-       "/u/Schinco",
-       "/u/BiochemRS",
-       "/u/Fircoal",
-       "u/Karmic_Thread",
-       "/u/MetaSoshi9",
-       "/u/Rarietty",
-       "/u/coconutcreambun",
-       "/u/win32error",
-       "/u/AdiMG",
-       "/u/Chrispy294",
-       "/u/DoctorWhoops"
+       "Schinco",
+       "BiochemRS",
+       "Fircoal",
+       "Karmic_Thread",
+       "MetaSoshi9",
+       "Rarietty",
+       "coconutcreambun",
+       "win32error",
+       "AdiMG",
+       "Chrispy294",
+       "DoctorWhoops"
       ],
       "blurb": "",
       "nominees": [
